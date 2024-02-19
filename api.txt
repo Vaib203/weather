@@ -1,0 +1,4 @@
+https://api.openweathermap.org/data/2.5/weather?q=Pune&units=metric&appid=2667861b506659556f3a11196455e05b
+
+
+second key:-https://api.openweathermap.org/data/2.5/weather?q=${search}&appid=2667861b506659556f3a11196455e05b
